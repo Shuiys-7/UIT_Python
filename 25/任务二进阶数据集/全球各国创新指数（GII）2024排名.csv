@@ -1,0 +1,134 @@
+﻿GII rank,Economy,Income group rank,Region rank,Region
+1,Switzerland,1,1,Europe
+2,Sweden,2,2,Europe
+3,United States of America,3,1,Northern America
+4,Singapore,4,1,"South East Asia, East Asia, and Oceania"
+5,United Kingdom,5,3,Europe
+6,Republic of Korea,6,2,"South East Asia, East Asia, and Oceania"
+7,Finland,7,4,Europe
+8,Netherlands (Kingdom of the),8,5,Europe
+9,Germany,9,6,Europe
+10,Denmark,10,7,Europe
+11,China,1,3,"South East Asia, East Asia, and Oceania"
+12,France,11,8,Europe
+13,Japan,12,4,"South East Asia, East Asia, and Oceania"
+14,Canada,13,2,Northern America
+15,Israel,14,1,Northern Africa and Western Asia
+16,Estonia,15,9,Europe
+17,Austria,16,10,Europe
+18,"Hong Kong, China",17,5,"South East Asia, East Asia, and Oceania"
+19,Ireland,18,11,Europe
+20,Luxembourg,19,12,Europe
+21,Norway,20,13,Europe
+22,Iceland,21,14,Europe
+23,Australia,22,6,"South East Asia, East Asia, and Oceania"
+24,Belgium,23,15,Europe
+25,New Zealand,24,7,"South East Asia, East Asia, and Oceania"
+26,Italy,25,16,Europe
+27,Cyprus,26,2,Northern Africa and Western Asia
+28,Spain,27,17,Europe
+29,Malta,28,18,Europe
+30,Czech Republic,29,19,Europe
+31,Portugal,30,20,Europe
+32,United Arab Emirates,31,3,Northern Africa and Western Asia
+33,Malaysia,2,8,"South East Asia, East Asia, and Oceania"
+34,Slovenia,32,21,Europe
+35,Lithuania,33,22,Europe
+36,Hungary,34,23,Europe
+37,Türkiye,3,4,Northern Africa and Western Asia
+38,Bulgaria,4,24,Europe
+39,India,1,1,Central and Southern Asia
+40,Poland,35,25,Europe
+41,Thailand,5,9,"South East Asia, East Asia, and Oceania"
+42,Latvia,36,26,Europe
+43,Croatia,37,27,Europe
+44,Viet Nam,2,10,"South East Asia, East Asia, and Oceania"
+45,Greece,38,28,Europe
+46,Slovakia,39,29,Europe
+47,Saudi Arabia,40,5,Northern Africa and Western Asia
+48,Romania,41,30,Europe
+49,Qatar,42,6,Northern Africa and Western Asia
+50,Brazil,6,1,Latin America and the Caribbean
+51,Chile,43,2,Latin America and the Caribbean
+52,Serbia,7,31,Europe
+53,Philippines,3,11,"South East Asia, East Asia, and Oceania"
+54,Indonesia,8,12,"South East Asia, East Asia, and Oceania"
+55,Mauritius,9,1,Sub-Saharan Africa
+56,Mexico,10,3,Latin America and the Caribbean
+57,Georgia,11,7,Northern Africa and Western Asia
+58,North Macedonia,12,32,Europe
+59,Russian Federation,13,33,Europe
+60,Ukraine,4,34,Europe
+61,Colombia,14,4,Latin America and the Caribbean
+62,Uruguay,44,5,Latin America and the Caribbean
+63,Armenia,15,8,Northern Africa and Western Asia
+64,Iran (Islamic Republic of),5,2,Central and Southern Asia
+65,Montenegro,16,35,Europe
+66,Morocco,6,9,Northern Africa and Western Asia
+67,Mongolia,7,13,"South East Asia, East Asia, and Oceania"
+68,Republic of Moldova,17,36,Europe
+69,South Africa,18,2,Sub-Saharan Africa
+70,Costa Rica,19,6,Latin America and the Caribbean
+71,Kuwait,45,10,Northern Africa and Western Asia
+72,Bahrain,46,11,Northern Africa and Western Asia
+73,Jordan,8,12,Northern Africa and Western Asia
+74,Oman,47,13,Northern Africa and Western Asia
+75,Peru,20,7,Latin America and the Caribbean
+76,Argentina,21,8,Latin America and the Caribbean
+77,Barbados,48,9,Latin America and the Caribbean
+78,Kazakhstan,22,3,Central and Southern Asia
+79,Jamaica,23,10,Latin America and the Caribbean
+80,Bosnia and Herzegovina,24,37,Europe
+81,Tunisia,9,14,Northern Africa and Western Asia
+82,Panama,49,11,Latin America and the Caribbean
+83,Uzbekistan,10,4,Central and Southern Asia
+84,Albania,25,38,Europe
+85,Belarus,26,39,Europe
+86,Egypt,11,15,Northern Africa and Western Asia
+87,Botswana,27,3,Sub-Saharan Africa
+88,Brunei Darussalam,50,14,"South East Asia, East Asia, and Oceania"
+89,Sri Lanka,12,5,Central and Southern Asia
+90,Cabo Verde,13,4,Sub-Saharan Africa
+91,Pakistan,14,6,Central and Southern Asia
+92,Senegal,15,5,Sub-Saharan Africa
+93,Paraguay,28,12,Latin America and the Caribbean
+94,Lebanon,16,16,Northern Africa and Western Asia
+95,Azerbaijan,29,17,Northern Africa and Western Asia
+96,Kenya,17,6,Sub-Saharan Africa
+97,Dominican Republic,30,13,Latin America and the Caribbean
+98,El Salvador,31,14,Latin America and the Caribbean
+99,Kyrgyzstan,18,7,Central and Southern Asia
+100,Bolivia (Plurinational State of),19,15,Latin America and the Caribbean
+101,Ghana,20,7,Sub-Saharan Africa
+102,Namibia,32,8,Sub-Saharan Africa
+103,Cambodia,21,15,"South East Asia, East Asia, and Oceania"
+104,Rwanda,1,9,Sub-Saharan Africa
+105,Ecuador,33,16,Latin America and the Caribbean
+106,Bangladesh,22,8,Central and Southern Asia
+107,Tajikistan,23,9,Central and Southern Asia
+108,Trinidad and Tobago,51,17,Latin America and the Caribbean
+109,Nepal,24,10,Central and Southern Asia
+110,Madagascar,2,10,Sub-Saharan Africa
+111,Lao People's Democratic Republic,25,16,"South East Asia, East Asia, and Oceania"
+112,Côte d'Ivoire,26,11,Sub-Saharan Africa
+113,Nigeria,27,12,Sub-Saharan Africa
+114,Honduras,28,18,Latin America and the Caribbean
+115,Algeria,29,18,Northern Africa and Western Asia
+116,Zambia,30,13,Sub-Saharan Africa
+117,Togo,3,14,Sub-Saharan Africa
+118,Zimbabwe,31,15,Sub-Saharan Africa
+119,Benin,32,16,Sub-Saharan Africa
+120,United Republic of Tanzania,33,17,Sub-Saharan Africa
+121,Uganda,4,18,Sub-Saharan Africa
+122,Guatemala,34,19,Latin America and the Caribbean
+123,Cameroon,34,19,Sub-Saharan Africa
+124,Nicaragua,35,20,Latin America and the Caribbean
+125,Myanmar,36,17,"South East Asia, East Asia, and Oceania"
+126,Mauritania,37,20,Sub-Saharan Africa
+127,Burundi,5,21,Sub-Saharan Africa
+128,Mozambique,6,22,Sub-Saharan Africa
+129,Burkina Faso,7,23,Sub-Saharan Africa
+130,Ethiopia,8,24,Sub-Saharan Africa
+131,Mali,9,25,Sub-Saharan Africa
+132,Niger,10,26,Sub-Saharan Africa
+133,Angola,38,27,Sub-Saharan Africa
